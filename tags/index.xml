@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SangBlog</title>
+    <link>https://sangdz.github.io/tags/</link>
+    <description>Recent content in Tags on SangBlog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sangdz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>https://sangdz.github.io/tags/javascript/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://sangdz.github.io/tags/programming/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://sangdz.github.io/tags/web-development/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Framework</title>
+      <link>https://sangdz.github.io/tags/framework/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://sangdz.github.io/tags/java/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kiểu Dữ Liệu</title>
+      <link>https://sangdz.github.io/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lập Trình</title>
+      <link>https://sangdz.github.io/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Người Mới Bắt Đầu</title>
+      <link>https://sangdz.github.io/tags/ng%C6%B0%E1%BB%9Di-m%E1%BB%9Bi-b%E1%BA%AFt-%C4%91%E1%BA%A7u/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://sangdz.github.io/tags/ng%C6%B0%E1%BB%9Di-m%E1%BB%9Bi-b%E1%BA%AFt-%C4%91%E1%BA%A7u/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
